@@ -5,7 +5,7 @@
 "asmCodeUrl": "PVZweb.asm.code.unityweb",
 "asmMemoryUrl": "PVZweb.asm.memory.unityweb",
 "asmFrameworkUrl": "PVZweb.asm.framework.unityweb",
-"TOTAL_MEMORY": 854589440,
+"TOTAL_MEMORY": 1610612736,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
