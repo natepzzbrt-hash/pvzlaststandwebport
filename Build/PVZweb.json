@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Pvz",
-"dataUrl": "PVZweb.data.unityweb",
+"dataUrl": "https://media.githubusercontent.com/media/natepzzbrt-hash/pvzlaststandwebport/main/Build/PVZweb.data.unityweb",
 "asmCodeUrl": "PVZweb.asm.code.unityweb",
 "asmMemoryUrl": "PVZweb.asm.memory.unityweb",
 "asmFrameworkUrl": "PVZweb.asm.framework.unityweb",
